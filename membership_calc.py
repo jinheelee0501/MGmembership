@@ -1,6 +1,5 @@
 from datetime import datetime
 import struct
-from str2deg import str2deg
 import numpy as np
 from calc_prior import *
 from calc_likeli_array import *
