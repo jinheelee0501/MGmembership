@@ -1,12 +1,8 @@
-from datetime import datetime
-import struct
 import numpy as np
 from calc_prior import *
 from calc_likeli_array import *
 from calc_likeli_uniformXYZ import *
 
-t0 = datetime.now()
-print 'START at %s' %(t0)
 
 # group information
 
